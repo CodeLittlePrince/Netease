@@ -1,0 +1,30 @@
+.yellowBar{height: auto;font: 12px/36px 'Microsoft Yahei';color: #333;background-color: #f3f3f3;}
+.yellowBar .notNote{float: right;}
+.yellowBar .notNote:hover{cursor: pointer;}
+.banner .nav{padding: 34px 0;}
+.banner .nav-left .nav-log{margin-top: 4px;font:bold 28px 'Microsoft Yahei';color: #39a030;}
+.banner .nav-left>h2{font: 22px/30px 'Hiragino Sans GB W3';margin-right: 30px;}
+/*.banner .nav-right .category{}*/
+.banner .nav-right>a{display: inline-block;padding: 0 27px;font: 16px/30px 'Hiragino Sans GB W3';color: #666;}
+.banner .nav-right>a:hover{color: #21a557;}
+.m-follow{display: inline-block;height: 21px;margin-top: 5px;padding: 0 9px;border: none;border-radius: 1px;
+	font: 12px/22px 'Microsoft Yahei';color: #fff;background-color: #21a557;cursor: pointer;}
+.m-follow:hover{background-color: #2fb556;}
+.m-followed{display: inline-block;height: 21px;margin-top: 5px;padding: 0 9px;border: none;border-radius: 1px;
+	font: 12px/22px 'Microsoft Yahei';background-color: #f8f8f8;cursor: pointer;border:1px solid #efefef;}	
+.m-followed:hover{background-color: #fff;}
+.m-followed s{color: #999999;}
+.m-followed:hover s{color: #21a557;}
+.line-grey{display: inline-block;vertical-align: middle;width: 1px;height: 10px;margin: 0 8px;background-color: #ccc;}
+.m-fans{margin-left: 14px;margin-top: 2px;font: 12px/30px 'Microsoft Yahei';color: #666;}
+.m-fans>label{margin-left: 7px;}
+.verticalLine{display: inline-block;width: 1px;height: 20px; background-color: #39a030; margin: 5px 10px;}
+.x{display: inline-block;width: 9px;height: 9px;background: url(../../IMG/sprite.png) 0 0 no-repeat;}
+.check{color: #21a557;}
+.carousel{width: 100%;height: 460px;background: url(../../IMG/banner1.jpg) no-repeat;}
+.i-add{display: inline-block;width: 8px;height: 8px;background: url(../../IMG/add.png) no-repeat;}
+.i-search{display: inline-block;width: 19px;height: 19px;background: url(../../IMG/search.png) no-repeat;cursor: pointer;}
+.i-search:hover{background: url(../../IMG/search-hover.png) no-repeat;}
+.vam{vertical-align: middle;}
+.row{width: 1200px;margin: auto;overflow: hidden;}
+.f-none{display: none;}
